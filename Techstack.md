@@ -1,43 +1,54 @@
-# Infinite Empires
+# Incremental Game
 
-a text-based  incremental game with buttons and other user interface elements.
+A browser-based incremental game with buttons and other user interface elements.
 
 ## Language: 
-    
-    python
 
-## Ui:
+- PHP
 
-    pygame
+## UI:
 
-## Ux:
+- Laravel
+- Symfony
 
-    no idea
+## UX:
+
+- Bootstrap
+- Foundation
 
 ## IDE: 
 
-    pycharm
+- PHPStorm
+- Visual Studio Code
 
 ## Version control: 
 
-    Git
+- Git
 
 ## Code hosting: 
 
-    GitHub
+- GitHub
+- GitLab
 
 ## Caching: 
 
-    no idea
+- APCu
+- Memcached
 
 ## Database: 
-    
-    MongoDB
+
+- MySQL
+- MariaDB
 
 ## Deployment:
-    
-    no idea
+
+- Bluehost
+- AWS
+- GCP
 
 ## Testing:
-    
-    no idea
+
+- PHPUnit
+- Codeception
+- Jenkins
+- Travis CI
